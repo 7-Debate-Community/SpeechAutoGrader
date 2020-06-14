@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="com.ibm.watson:speech-to-text:8.4.0" type="repository">
+    <properties maven-id="com.ibm.watson:speech-to-text:8.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/watson/speech-to-text/8.4.0/speech-to-text-8.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/watson/common/8.4.0/common-8.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/cloud/sdk-core/8.1.0/sdk-core-8.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.12.1/okhttp-3.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.15.0/okio-1.15.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.12.1/logging-interceptor-3.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp-urlconnection/3.12.1/okhttp-urlconnection-3.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.12/commons-codec-1.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.1-android/guava-27.1-android.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-compat-qual/2.5.2/checker-compat-qual-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.2.0/error_prone_annotations-2.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.17/animal-sniffer-annotations-1.17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.7/rxjava-2.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
